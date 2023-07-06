@@ -1,0 +1,209 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    
+}
+
+.contanier{
+    background-image: url("https://images.frandroid.com/wp-content/uploads/2022/10/netflix-octobre-contenus-2022.jpg");
+    height: 100vh;
+    
+    
+}
+.logo{
+    font-size: 45px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: red;
+    margin-left: 20px;
+    letter-spacing: 2px;
+    flex-grow: 2;
+}
+.netflix-signin-button {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  
+  .netflix-signin-button:hover {
+    background-color:red;
+  }
+  header{
+    width: 100%;
+    margin-top: 40vh;
+    color: white;
+  }
+  .herotext{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+  }
+  .netflix-form {
+    display: flex;
+    align-items: center;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+  }
+  
+  .netflix-input {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333333e1;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+  }
+  
+  .netflix-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #e50914;
+    color: #fff;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .netflix-button:hover {
+    background-color: #b4060b;
+  }
+  main{
+    margin-top: 280px;
+    width: 100%;
+    margin-left: 10px;
+    display: flex;
+  }
+  .text{
+    width: 50%;
+    font-size: 30px;
+    color: white;
+  }
+  body{
+    background-color: black;
+  }
+  .h3-main{
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 5px 10px;
+  }
+  .img{
+    margin-left: 10%;
+    margin-bottom: 60px;
+  }
+  
+  hr{
+    color: black;
+    margin-top: 30px;
+    
+  }
+  .section{
+    width: 100%;
+    margin-left: 10px;
+    display: flex;
+  }
+  .text2{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+    width: 40%;
+  }
+  .secimg1{
+    width: 50%;
+    margin-left: 60px;
+  }
+  .h3-sec{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+  }
+  .section2{
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+  }
+  .text3{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+    width: 30%;
+  }
+  .h4-sec{
+    font-size: 20px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 60px;
+  }
+  .section3{
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 70px;
+    display: flex;
+  }
+  .img4{
+    width: 40%;
+  }
+  .text4{
+    color: white;
+    margin-top: 50px;
+    font-size: 25px;
+    width: 60%;
+  }
+  .h3-sec2{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+  }
+  .section4{
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 60px;
+  }
+  .text5{
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .input-sec{
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333333e1;
+    color: #fff;
+    width: 900px;
+    height: 50px; 
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+
+  .sec-h2{
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+    color: wheat;
+  }
